@@ -1,0 +1,12 @@
+C:\Users\digdr\Documents\coding\BlazorTicketingApp\Ticketing.API\Ticketing.Entities\bin\Debug\net8.0\Ticketing.Entities.deps.json
+C:\Users\digdr\Documents\coding\BlazorTicketingApp\Ticketing.API\Ticketing.Entities\bin\Debug\net8.0\Ticketing.Entities.dll
+C:\Users\digdr\Documents\coding\BlazorTicketingApp\Ticketing.API\Ticketing.Entities\bin\Debug\net8.0\Ticketing.Entities.pdb
+C:\Users\digdr\Documents\coding\BlazorTicketingApp\Ticketing.API\Ticketing.Entities\obj\Debug\net8.0\Ticketing.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digdr\Documents\coding\BlazorTicketingApp\Ticketing.API\Ticketing.Entities\obj\Debug\net8.0\Ticketing.Entities.AssemblyInfoInputs.cache
+C:\Users\digdr\Documents\coding\BlazorTicketingApp\Ticketing.API\Ticketing.Entities\obj\Debug\net8.0\Ticketing.Entities.AssemblyInfo.cs
+C:\Users\digdr\Documents\coding\BlazorTicketingApp\Ticketing.API\Ticketing.Entities\obj\Debug\net8.0\Ticketing.Entities.csproj.CoreCompileInputs.cache
+C:\Users\digdr\Documents\coding\BlazorTicketingApp\Ticketing.API\Ticketing.Entities\obj\Debug\net8.0\Ticketing.Entities.sourcelink.json
+C:\Users\digdr\Documents\coding\BlazorTicketingApp\Ticketing.API\Ticketing.Entities\obj\Debug\net8.0\Ticketing.Entities.dll
+C:\Users\digdr\Documents\coding\BlazorTicketingApp\Ticketing.API\Ticketing.Entities\obj\Debug\net8.0\refint\Ticketing.Entities.dll
+C:\Users\digdr\Documents\coding\BlazorTicketingApp\Ticketing.API\Ticketing.Entities\obj\Debug\net8.0\Ticketing.Entities.pdb
+C:\Users\digdr\Documents\coding\BlazorTicketingApp\Ticketing.API\Ticketing.Entities\obj\Debug\net8.0\ref\Ticketing.Entities.dll
