@@ -2,7 +2,7 @@
 
 namespace Ticketing.DataService.Repositories.Interfaces;
 
-public class IDriverRepository : IGenericRepository<Driver>
+public interface IDriverRepository : IGenericRepository<Driver>
 {
 
 }

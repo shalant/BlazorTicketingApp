@@ -1,5 +1,8 @@
-﻿namespace Ticketing.DataService.Repositories.Interfaces;
+﻿using Ticketing.Entities.DbSet;
 
-public interface IAchievementsRepository
+namespace Ticketing.DataService.Repositories.Interfaces;
+
+public interface IAchievementsRepository : IGenericRepository<Achievement>
 {
+    Task<Achievement> GetDriverAchievementsAsync(Guid driverId);
 }
