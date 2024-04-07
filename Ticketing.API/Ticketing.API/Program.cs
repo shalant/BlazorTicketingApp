@@ -1,5 +1,7 @@
 using Ticketing.DataService.Data;
 using Microsoft.EntityFrameworkCore;
+using Ticketing.DataService.Repositories.Interfaces;
+using Ticketing.DataService.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +14,11 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+//builder.Services.Microsoft.Extensions.DependencyInjection.IServiceCollection.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 var app = builder.Build();
 

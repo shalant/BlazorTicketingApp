@@ -41,14 +41,43 @@ public class DriverRepository : GenericRepository<Driver>, IDriverRepository
             }
             else
             {
-                result.Status == false;
-                result.DeletedDate = DateTime.UtcNow;
+                result.Status = false;
+                result.UpdatedDate = DateTime.UtcNow;
+
+                return true;
             }
-            
         }
         catch (Exception e)
         {
             _logger.LogError(exception: e, message: "Delete function error", typeof(DriverRepository));
+            throw;
+        }
+    }
+
+    public override async Task<bool> Update(Driver driver)
+    {
+        try
+        {
+            //get entity
+            var result = await _dbset.FirstOrDefaultAsync(x => x.Id == driver.Id);
+
+            if (result == null)
+            {
+                return false;
+            }
+            else
+            {
+                result.UpdatedDate = DateTime.UtcNow;
+                result.DriverNumber = driver.DriverNumber;
+                result.FirstName = driver.FirstName;
+                result.LastName = driver.LastName;
+                result.DateOfBirth = driver.DateOfBirth;
+                return true;
+            }
+        }
+        catch (Exception e)
+        {
+            _logger.LogError(exception: e, message: "Update function error", typeof(DriverRepository));
             throw;
         }
     }

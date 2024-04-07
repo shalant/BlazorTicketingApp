@@ -5,9 +5,11 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ticketing.API", "Ticketing.API\Ticketing.API.csproj", "{CF316520-0778-470C-93DC-912B4540625F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.DataService", "Ticketing.DataService\Ticketing.DataService.csproj", "{D80418BE-1BD3-4633-8E7B-729C6BFA138A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ticketing.DataService", "Ticketing.DataService\Ticketing.DataService.csproj", "{D80418BE-1BD3-4633-8E7B-729C6BFA138A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.Entities", "Ticketing.Entities\Ticketing.Entities.csproj", "{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ticketing.Entities", "Ticketing.Entities\Ticketing.Entities.csproj", "{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.Web", "Ticketing.Web\Ticketing.Web.csproj", "{5B94CDAE-8394-4687-8AA7-7D2F8C5337CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B94CDAE-8394-4687-8AA7-7D2F8C5337CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B94CDAE-8394-4687-8AA7-7D2F8C5337CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B94CDAE-8394-4687-8AA7-7D2F8C5337CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B94CDAE-8394-4687-8AA7-7D2F8C5337CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

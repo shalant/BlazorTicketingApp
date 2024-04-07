@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iIc9377d+Dxy3Yg+PGmUUgqBr90VE40xu1dCZ/p2fAsye21qRthnaOl6+LHa7YfkVBH9vaJBLBYxO4pWpLuU3Q==",
+  "dgSpecHash": "njM4IwFrTU9JekSmwtBxsiqS6hwV2u/91qc+8dpu4+8V9L4Y43zPbj5JumXXKEfofc9yfUCtHVcgAffTtrHoQA==",
   "success": true,
   "projectFilePath": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.API\\Ticketing.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\digdr\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

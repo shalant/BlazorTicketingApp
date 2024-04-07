@@ -1,9 +1,9 @@
 ﻿namespace Ticketing.DataService.Repositories.Interfaces;
 
-public class IUnitOfWork
+public interface IUnitOfWork
 {
     IDriverRepository Drivers { get; }
     IAchievementsRepository Achievements { get; }
 
-    Task CompleteAsync;
+    Task<bool> CompleteAsync();
 }
