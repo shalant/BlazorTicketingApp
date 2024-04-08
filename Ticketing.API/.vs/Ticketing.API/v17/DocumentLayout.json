@@ -3,108 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF316520-0778-470C-93DC-912B4540625F}|Ticketing.API\\Ticketing.API.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.api\\mappingprofiles\\domaintoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF316520-0778-470C-93DC-912B4540625F}|Ticketing.API\\Ticketing.API.csproj|solutionrelative:ticketing.api\\mappingprofiles\\domaintoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.entities\\dtos\\responses\\getdriverresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|solutionrelative:ticketing.entities\\dtos\\responses\\getdriverresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF316520-0778-470C-93DC-912B4540625F}|Ticketing.API\\Ticketing.API.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.api\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF316520-0778-470C-93DC-912B4540625F}|Ticketing.API\\Ticketing.API.csproj|solutionrelative:ticketing.api\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B94CDAE-8394-4687-8AA7-7D2F8C5337CB}|Ticketing.Web\\Ticketing.Web.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B94CDAE-8394-4687-8AA7-7D2F8C5337CB}|Ticketing.Web\\Ticketing.Web.csproj|solutionrelative:ticketing.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B94CDAE-8394-4687-8AA7-7D2F8C5337CB}|Ticketing.Web\\Ticketing.Web.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.web\\components\\pages\\drivers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B94CDAE-8394-4687-8AA7-7D2F8C5337CB}|Ticketing.Web\\Ticketing.Web.csproj|solutionrelative:ticketing.web\\components\\pages\\drivers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B94CDAE-8394-4687-8AA7-7D2F8C5337CB}|Ticketing.Web\\Ticketing.Web.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.web\\ticketing.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5B94CDAE-8394-4687-8AA7-7D2F8C5337CB}|Ticketing.Web\\Ticketing.Web.csproj|solutionrelative:ticketing.web\\ticketing.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80418BE-1BD3-4633-8E7B-729C6BFA138A}|Ticketing.DataService\\Ticketing.DataService.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.dataservice\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80418BE-1BD3-4633-8E7B-729C6BFA138A}|Ticketing.DataService\\Ticketing.DataService.csproj|solutionrelative:ticketing.dataservice\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80418BE-1BD3-4633-8E7B-729C6BFA138A}|Ticketing.DataService\\Ticketing.DataService.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.dataservice\\repositories\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80418BE-1BD3-4633-8E7B-729C6BFA138A}|Ticketing.DataService\\Ticketing.DataService.csproj|solutionrelative:ticketing.dataservice\\repositories\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF316520-0778-470C-93DC-912B4540625F}|Ticketing.API\\Ticketing.API.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.api\\mappingprofiles\\requesttodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF316520-0778-470C-93DC-912B4540625F}|Ticketing.API\\Ticketing.API.csproj|solutionrelative:ticketing.api\\mappingprofiles\\requesttodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80418BE-1BD3-4633-8E7B-729C6BFA138A}|Ticketing.DataService\\Ticketing.DataService.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.dataservice\\repositories\\achievementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80418BE-1BD3-4633-8E7B-729C6BFA138A}|Ticketing.DataService\\Ticketing.DataService.csproj|solutionrelative:ticketing.dataservice\\repositories\\achievementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.entities\\dbset\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|solutionrelative:ticketing.entities\\dbset\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80418BE-1BD3-4633-8E7B-729C6BFA138A}|Ticketing.DataService\\Ticketing.DataService.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.dataservice\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80418BE-1BD3-4633-8E7B-729C6BFA138A}|Ticketing.DataService\\Ticketing.DataService.csproj|solutionrelative:ticketing.dataservice\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.entities\\dbset\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|solutionrelative:ticketing.entities\\dbset\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.entities\\dtos\\requests\\updatedriverrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|solutionrelative:ticketing.entities\\dtos\\requests\\updatedriverrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.entities\\dtos\\requests\\createdriverrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|solutionrelative:ticketing.entities\\dtos\\requests\\createdriverrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF316520-0778-470C-93DC-912B4540625F}|Ticketing.API\\Ticketing.API.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF316520-0778-470C-93DC-912B4540625F}|Ticketing.API\\Ticketing.API.csproj|solutionrelative:ticketing.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80418BE-1BD3-4633-8E7B-729C6BFA138A}|Ticketing.DataService\\Ticketing.DataService.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.dataservice\\repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80418BE-1BD3-4633-8E7B-729C6BFA138A}|Ticketing.DataService\\Ticketing.DataService.csproj|solutionrelative:ticketing.dataservice\\repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80418BE-1BD3-4633-8E7B-729C6BFA138A}|Ticketing.DataService\\Ticketing.DataService.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.dataservice\\repositories\\interfaces\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80418BE-1BD3-4633-8E7B-729C6BFA138A}|Ticketing.DataService\\Ticketing.DataService.csproj|solutionrelative:ticketing.dataservice\\repositories\\interfaces\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.entities\\dtos\\requests\\createdriverachievementrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|solutionrelative:ticketing.entities\\dtos\\requests\\createdriverachievementrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.entities\\dtos\\responses\\driverachievementresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|solutionrelative:ticketing.entities\\dtos\\responses\\driverachievementresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55153145-D9D5-4E61-8D1C-1B2DE99D46DE}|Ticketing.App\\Ticketing.App.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.app\\services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55153145-D9D5-4E61-8D1C-1B2DE99D46DE}|Ticketing.App\\Ticketing.App.csproj|solutionrelative:ticketing.app\\services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF316520-0778-470C-93DC-912B4540625F}|Ticketing.API\\Ticketing.API.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF316520-0778-470C-93DC-912B4540625F}|Ticketing.API\\Ticketing.API.csproj|solutionrelative:ticketing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF316520-0778-470C-93DC-912B4540625F}|Ticketing.API\\Ticketing.API.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.api\\ticketing.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CF316520-0778-470C-93DC-912B4540625F}|Ticketing.API\\Ticketing.API.csproj|solutionrelative:ticketing.api\\ticketing.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{55153145-D9D5-4E61-8D1C-1B2DE99D46DE}|Ticketing.App\\Ticketing.App.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55153145-D9D5-4E61-8D1C-1B2DE99D46DE}|Ticketing.App\\Ticketing.App.csproj|solutionrelative:ticketing.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D80418BE-1BD3-4633-8E7B-729C6BFA138A}|Ticketing.DataService\\Ticketing.DataService.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.dataservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80418BE-1BD3-4633-8E7B-729C6BFA138A}|Ticketing.DataService\\Ticketing.DataService.csproj|solutionrelative:ticketing.dataservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF316520-0778-470C-93DC-912B4540625F}|Ticketing.API\\Ticketing.API.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.api\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF316520-0778-470C-93DC-912B4540625F}|Ticketing.API\\Ticketing.API.csproj|solutionrelative:ticketing.api\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.entities\\dbset\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|solutionrelative:ticketing.entities\\dbset\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55153145-D9D5-4E61-8D1C-1B2DE99D46DE}|Ticketing.App\\Ticketing.App.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.app\\pages\\drivers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55153145-D9D5-4E61-8D1C-1B2DE99D46DE}|Ticketing.App\\Ticketing.App.csproj|solutionrelative:ticketing.app\\pages\\drivers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.entities\\dbset\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|solutionrelative:ticketing.entities\\dbset\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55153145-D9D5-4E61-8D1C-1B2DE99D46DE}|Ticketing.App\\Ticketing.App.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.app\\pages\\drivers.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55153145-D9D5-4E61-8D1C-1B2DE99D46DE}|Ticketing.App\\Ticketing.App.csproj|solutionrelative:ticketing.app\\pages\\drivers.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.entities\\dbset\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{853F0FA4-BADE-44DF-9BEE-C03A6DFB0AE8}|Ticketing.Entities\\Ticketing.Entities.csproj|solutionrelative:ticketing.entities\\dbset\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55153145-D9D5-4E61-8D1C-1B2DE99D46DE}|Ticketing.App\\Ticketing.App.csproj|c:\\users\\digdr\\documents\\coding\\blazorticketingapp\\ticketing.api\\ticketing.app\\services\\interfaces\\idriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55153145-D9D5-4E61-8D1C-1B2DE99D46DE}|Ticketing.App\\Ticketing.App.csproj|solutionrelative:ticketing.app\\services\\interfaces\\idriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -123,340 +47,87 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Web\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Ticketing.Web\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Web\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Ticketing.Web\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T14:52:04.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "DriversController.cs",
               "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.API\\Controllers\\DriversController.cs",
               "RelativeDocumentMoniker": "Ticketing.API\\Controllers\\DriversController.cs",
               "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.API\\Controllers\\DriversController.cs",
               "RelativeToolTip": "Ticketing.API\\Controllers\\DriversController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAiwCIAAAAnAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:50:16.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T22:31:02.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\DbSet\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Ticketing.Entities\\DbSet\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\DbSet\\BaseEntity.cs",
-              "RelativeToolTip": "Ticketing.Entities\\DbSet\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.App\\Program.cs",
+              "RelativeDocumentMoniker": "Ticketing.App\\Program.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.App\\Program.cs",
+              "RelativeToolTip": "Ticketing.App\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T03:07:59.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AchievementRepository.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.DataService\\Repositories\\AchievementRepository.cs",
-              "RelativeDocumentMoniker": "Ticketing.DataService\\Repositories\\AchievementRepository.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.DataService\\Repositories\\AchievementRepository.cs",
-              "RelativeToolTip": "Ticketing.DataService\\Repositories\\AchievementRepository.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAawDgAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T23:05:09.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T00:09:10.905Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GetDriverResponse.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\Dtos\\Responses\\GetDriverResponse.cs",
-              "RelativeDocumentMoniker": "Ticketing.Entities\\Dtos\\Responses\\GetDriverResponse.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\Dtos\\Responses\\GetDriverResponse.cs",
-              "RelativeToolTip": "Ticketing.Entities\\Dtos\\Responses\\GetDriverResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T22:35:10.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DomainToResponse.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.API\\MappingProfiles\\DomainToResponse.cs",
-              "RelativeDocumentMoniker": "Ticketing.API\\MappingProfiles\\DomainToResponse.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.API\\MappingProfiles\\DomainToResponse.cs",
-              "RelativeToolTip": "Ticketing.API\\MappingProfiles\\DomainToResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T13:10:22.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RequestToDomain.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.API\\MappingProfiles\\RequestToDomain.cs",
-              "RelativeDocumentMoniker": "Ticketing.API\\MappingProfiles\\RequestToDomain.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.API\\MappingProfiles\\RequestToDomain.cs",
-              "RelativeToolTip": "Ticketing.API\\MappingProfiles\\RequestToDomain.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABAAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T13:30:06.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Ticketing.Web",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Web\\Ticketing.Web.csproj",
-              "RelativeDocumentMoniker": "Ticketing.Web\\Ticketing.Web.csproj",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Web\\Ticketing.Web.csproj",
-              "RelativeToolTip": "Ticketing.Web\\Ticketing.Web.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-07T14:38:53.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Drivers.razor",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Web\\Components\\Pages\\Drivers.razor",
-              "RelativeDocumentMoniker": "Ticketing.Web\\Components\\Pages\\Drivers.razor",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Web\\Components\\Pages\\Drivers.razor",
-              "RelativeToolTip": "Ticketing.Web\\Components\\Pages\\Drivers.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T14:51:25.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.DataService\\Repositories\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Ticketing.DataService\\Repositories\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.DataService\\Repositories\\UnitOfWork.cs",
-              "RelativeToolTip": "Ticketing.DataService\\Repositories\\UnitOfWork.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T21:00:43.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DriverRepository.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.DataService\\Repositories\\DriverRepository.cs",
-              "RelativeDocumentMoniker": "Ticketing.DataService\\Repositories\\DriverRepository.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.DataService\\Repositories\\DriverRepository.cs",
-              "RelativeToolTip": "Ticketing.DataService\\Repositories\\DriverRepository.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAhwD8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T13:18:56.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Driver.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\DbSet\\Driver.cs",
-              "RelativeDocumentMoniker": "Ticketing.Entities\\DbSet\\Driver.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\DbSet\\Driver.cs",
-              "RelativeToolTip": "Ticketing.Entities\\DbSet\\Driver.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T03:08:56.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.DataService\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Ticketing.DataService\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.DataService\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "Ticketing.DataService\\Repositories\\GenericRepository.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T13:13:28.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.DataService\\Repositories\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Ticketing.DataService\\Repositories\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.DataService\\Repositories\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "Ticketing.DataService\\Repositories\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T13:44:07.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CreateDriverRequest.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\Dtos\\Requests\\CreateDriverRequest.cs",
-              "RelativeDocumentMoniker": "Ticketing.Entities\\Dtos\\Requests\\CreateDriverRequest.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\Dtos\\Requests\\CreateDriverRequest.cs",
-              "RelativeToolTip": "Ticketing.Entities\\Dtos\\Requests\\CreateDriverRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T22:32:46.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UpdateDriverRequest.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\Dtos\\Requests\\UpdateDriverRequest.cs",
-              "RelativeDocumentMoniker": "Ticketing.Entities\\Dtos\\Requests\\UpdateDriverRequest.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\Dtos\\Requests\\UpdateDriverRequest.cs",
-              "RelativeToolTip": "Ticketing.Entities\\Dtos\\Requests\\UpdateDriverRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T22:34:24.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.API\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "Ticketing.API\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.API\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "Ticketing.API\\Controllers\\BaseController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:43:35.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IDriverRepository.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.DataService\\Repositories\\Interfaces\\IDriverRepository.cs",
-              "RelativeDocumentMoniker": "Ticketing.DataService\\Repositories\\Interfaces\\IDriverRepository.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.DataService\\Repositories\\Interfaces\\IDriverRepository.cs",
-              "RelativeToolTip": "Ticketing.DataService\\Repositories\\Interfaces\\IDriverRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T12:11:24.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CreateDriverAchievementRequest.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\Dtos\\Requests\\CreateDriverAchievementRequest.cs",
-              "RelativeDocumentMoniker": "Ticketing.Entities\\Dtos\\Requests\\CreateDriverAchievementRequest.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\Dtos\\Requests\\CreateDriverAchievementRequest.cs",
-              "RelativeToolTip": "Ticketing.Entities\\Dtos\\Requests\\CreateDriverAchievementRequest.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAowAQAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:57:39.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DriverAchievementResponse.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\Dtos\\Responses\\DriverAchievementResponse.cs",
-              "RelativeDocumentMoniker": "Ticketing.Entities\\Dtos\\Responses\\DriverAchievementResponse.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\Dtos\\Responses\\DriverAchievementResponse.cs",
-              "RelativeToolTip": "Ticketing.Entities\\Dtos\\Responses\\DriverAchievementResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T19:32:41.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.API\\Program.cs",
               "RelativeDocumentMoniker": "Ticketing.API\\Program.cs",
               "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.API\\Program.cs",
               "RelativeToolTip": "Ticketing.API\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBIAAAARAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T15:22:10.58Z",
+              "WhenOpened": "2024-04-07T23:52:41.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Drivers.razor",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.App\\Pages\\Drivers.razor",
+              "RelativeDocumentMoniker": "Ticketing.App\\Pages\\Drivers.razor",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.App\\Pages\\Drivers.razor",
+              "RelativeToolTip": "Ticketing.App\\Pages\\Drivers.razor",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T23:46:33.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Drivers.razor.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.App\\Pages\\Drivers.razor.cs",
+              "RelativeDocumentMoniker": "Ticketing.App\\Pages\\Drivers.razor.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.App\\Pages\\Drivers.razor.cs",
+              "RelativeToolTip": "Ticketing.App\\Pages\\Drivers.razor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T22:30:46.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DriverService.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.App\\Services\\DriverService.cs",
+              "RelativeDocumentMoniker": "Ticketing.App\\Services\\DriverService.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.App\\Services\\DriverService.cs",
+              "RelativeToolTip": "Ticketing.App\\Services\\DriverService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T22:29:31.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Ticketing.API.csproj",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.API\\Ticketing.API.csproj",
-              "RelativeDocumentMoniker": "Ticketing.API\\Ticketing.API.csproj",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.API\\Ticketing.API.csproj",
-              "RelativeToolTip": "Ticketing.API\\Ticketing.API.csproj",
+              "DocumentIndex": 6,
+              "Title": "IDriverService.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.App\\Services\\Interfaces\\IDriverService.cs",
+              "RelativeDocumentMoniker": "Ticketing.App\\Services\\Interfaces\\IDriverService.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.App\\Services\\Interfaces\\IDriverService.cs",
+              "RelativeToolTip": "Ticketing.App\\Services\\Interfaces\\IDriverService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-04T23:14:05.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\DbSet\\Project.cs",
-              "RelativeDocumentMoniker": "Ticketing.Entities\\DbSet\\Project.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\DbSet\\Project.cs",
-              "RelativeToolTip": "Ticketing.Entities\\DbSet\\Project.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T03:24:39.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\DbSet\\Ticket.cs",
-              "RelativeDocumentMoniker": "Ticketing.Entities\\DbSet\\Ticket.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\DbSet\\Ticket.cs",
-              "RelativeToolTip": "Ticketing.Entities\\DbSet\\Ticket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T03:24:33.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\DbSet\\User.cs",
-              "RelativeDocumentMoniker": "Ticketing.Entities\\DbSet\\User.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.Entities\\DbSet\\User.cs",
-              "RelativeToolTip": "Ticketing.Entities\\DbSet\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T03:24:25.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.DataService\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Ticketing.DataService\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTicketingApp\\Ticketing.API\\Ticketing.DataService\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Ticketing.DataService\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T03:23:34.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T22:29:29.168Z"
             }
           ]
         }

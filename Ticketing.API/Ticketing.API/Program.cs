@@ -20,6 +20,19 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
+builder.Services.AddCors(options =>
+{
+    //options.AddPolicy("blazorWeb",
+    options.AddPolicy("blazorApp",
+        builder =>
+        {
+            builder.WithOrigins("http://localhost:7127")
+                .AllowAnyHeader()
+                .AllowAnyMethod()
+                .AllowCredentials();
+        });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -34,5 +47,8 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+//app.UseCors("blazorWeb");
+app.UseCors("blazorApp");
 
 app.Run();
